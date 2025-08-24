@@ -14,4 +14,7 @@ print(b//a)  # flow division yah point ke baad ke integer ko hata deta hai o/p- 
 print(b%a)
 
 
-print(b**a)
+print(b**a)  # use for power
+
+
+print(12+4/2)
